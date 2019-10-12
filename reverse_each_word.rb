@@ -4,6 +4,6 @@ reverse_each_word.reverse ("word")
   reverse_each_word.each do |word|
 reverse_each_word.collect do |word|  
 end
-  end
-    end
+end
+end
   
